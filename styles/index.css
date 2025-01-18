@@ -80,4 +80,20 @@ border-radius: 16px;
     gap: 10px;
     justify-content: center;
 }
+#opinion-title{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+#opinion-title-1{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    background-color: rgb(198, 228, 214);
+}
+
 /* main */
